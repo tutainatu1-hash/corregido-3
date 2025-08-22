@@ -1,0 +1,7 @@
+{
+  "name": "Copia corregido 3",
+  "description": "Una aplicación web para planificar, registrar y guardar tu progreso en el gimnasio, siguiendo una rutina de 4 días con registro de cardio y ejercicios de fuerza.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

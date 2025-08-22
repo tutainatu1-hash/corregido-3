@@ -1,0 +1,21 @@
+{
+  "short_name": "Progresión",
+  "name": "PROGRESIÓN DE CARGA",
+  "description": "Una aplicación web para planificar, registrar y guardar tu progreso en el gimnasio.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#020617"
+}
